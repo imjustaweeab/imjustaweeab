@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Niño Christian B. Babaran
+- 👋 Hi, I’m Niño
 - 👀 I’m interested in anime,coding
 - 🌱 I’m currently learning html
 <!---
